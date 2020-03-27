@@ -7,6 +7,6 @@ Reto 2 de screen
 <p>
 <img src="https://raw.githubusercontent.com/rabernet/flutter_ui_2/master/original2.jpg">
 </p>
-<p>
-<img src="https://raw.githubusercontent.com/rabernet/flutter_ui_2/master/Screenshot_1585329551.png">
+<p class="text-align: center;width: 300px;">
+<img src="https://raw.githubusercontent.com/rabernet/flutter_ui_2/master/Screenshot_1585329551.png" style="width: 300px;">
 </p>
